@@ -6,3 +6,4 @@
 | 1 | Palindrome Number | Math | 3 min | Solved (optimal, one trial) |
 | 1 | Longest Common Prefix | Strings | 15 min | Solved (optimal, one trial) |
 | 1 | Remove Element | Two pointers | 5 min | solved (optimal, one trial) |
+| 1 | Maximum Subarray | Kadane's / DP-adjacent | 13 min | Solved (derived independently, first trial) |
