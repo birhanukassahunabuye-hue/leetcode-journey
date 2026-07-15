@@ -7,3 +7,4 @@
 | 1 | Longest Common Prefix | Strings | 15 min | Solved (optimal, one trial) |
 | 1 | Remove Element | Two pointers | 5 min | solved (optimal, one trial) |
 | 1 | Maximum Subarray | Kadane's / DP-adjacent | 13 min | Solved (derived independently, first trial) |
+| 1 | Valid Palindrome | String/Two Pointer | 12 min | Solved (correct but not optimal — used extra space; two-pointer in-place version needed) |
