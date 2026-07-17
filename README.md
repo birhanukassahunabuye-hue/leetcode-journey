@@ -9,4 +9,4 @@
 | 1 | Maximum Subarray | Kadane's / DP-adjacent | 13 min | Solved (derived independently, first trial) |
 | 1 | Valid Palindrome | String/Two Pointer | 12 min | Solved (correct but not optimal — used extra space; two-pointer in-place version needed) |
 | 1 | Find Numbers with Even Digits | Loop/Math | 16 min | Solved (optimal, checked constraints first) |
-| 2 | Contains Duplicate | loop/maths | 4 min | solved(correctly but used extra time O(n^2) , one trial) |
+| 2 | Contains Duplicate | Hashmap/Set | 10 min (4 min brute force + 6 min optimized) | Solved (self-corrected O(n²) to O(n)) |
