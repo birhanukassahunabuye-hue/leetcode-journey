@@ -11,3 +11,4 @@
 | 1 | Find Numbers with Even Digits | Loop/Math | 16 min | Solved (optimal, checked constraints first) |
 | 2 | Contains Duplicate | Hashmap/Set | 10 min (4 min brute force + 6 min optimized) | Solved (self-corrected O(n²) to O(n)) |
 | 2 | Valid Anagram | Hashmap | 13 min (sorting one-liner first, then optimized to O(n) hashmap) | Solved |
+| 2 | Group Anagrams | Hashmap | 20 min | Solved (sorted-string-as-key, one trial) |
