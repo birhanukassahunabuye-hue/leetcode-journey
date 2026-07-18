@@ -13,3 +13,4 @@
 | 2 | Valid Anagram | Hashmap | 13 min (sorting one-liner first, then optimized to O(n) hashmap) | Solved |
 | 2 | Group Anagrams | Hashmap | 20 min | Solved (sorted-string-as-key, one trial) |
 | 3 | Two Sum II (Sorted) | Two Pointer | 20 min | Solved (recognized sorted property → two-pointer immediately, one trial) |
+| 3 | Valid Palindrome II | Two Pointer | 30 min | Solved (optimal — try-both-deletions branch on mismatch) |
