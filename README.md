@@ -15,3 +15,4 @@
 | 3 | Two Sum II (Sorted) | Two Pointer | 20 min | Solved (recognized sorted property → two-pointer immediately, one trial) |
 | 3 | Valid Palindrome II | Two Pointer | 30 min | Solved (optimal — try-both-deletions branch on mismatch) |
 | 3 | Merge Sorted Array | Two Pointer (merge from back) | 40 min | Solved (optimal — figured out third pointer independently after hint on back-to-front reasoning) |
+| 4 | Best Time to Buy/Sell Stock | Sliding Window / Kadane's-adjacent | 25 min | Solved (optimal, single pass) |
