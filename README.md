@@ -16,3 +16,4 @@
 | 3 | Valid Palindrome II | Two Pointer | 30 min | Solved (optimal — try-both-deletions branch on mismatch) |
 | 3 | Merge Sorted Array | Two Pointer (merge from back) | 40 min | Solved (optimal — figured out third pointer independently after hint on back-to-front reasoning) |
 | 4 | Best Time to Buy/Sell Stock | Sliding Window / Kadane's-adjacent | 25 min | Solved (optimal, single pass) |
+| 4 | Longest Substring Without Repeating Chars | Sliding Window | 20 min | Solved (optimal, one trial — first genuine sliding window problem) |
