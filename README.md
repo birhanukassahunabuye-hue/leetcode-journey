@@ -18,3 +18,4 @@
 | 4 | Best Time to Buy/Sell Stock | Sliding Window / Kadane's-adjacent | 25 min | Solved (optimal, single pass) |
 | 4 | Longest Substring Without Repeating Chars | Sliding Window | 20 min | Solved (optimal, one trial — first genuine sliding window problem) |
 | 4 | Maximum Average Subarray I | Sliding Window (fixed size) | 20 min | Solved (optimal — first attempt from left, pivoted to subtract/add technique) |
+| 5 | Subarray Sum Equals K | Hashmap + Prefix Sum | 50 min | Solved (optimal — derived needed=curr_sum-k via paper trials, first prefix-sum problem) |
