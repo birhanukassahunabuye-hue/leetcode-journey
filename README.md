@@ -21,3 +21,4 @@
 | 5 | Subarray Sum Equals K | Hashmap + Prefix Sum | 50 min | Solved (optimal — derived needed=curr_sum-k via paper trials, first prefix-sum problem) |
 | 5 | 3Sum | Two Pointer + Sorting | 75 min | Solved (optimal — correctly handled all 3 duplicate-skip locations, abandoned set() approach after trial) |
 | 6 | Valid Palindrome II (retention check) | Two Pointer | 6 min | Solved (Day 3 took 30 min — confirms retention, not one-time derivation) |
+| 7 | Longest Repeating Character Replacement | Sliding Window | 50 min | Solved (optimal — stale max_freq trick) |
