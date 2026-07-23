@@ -22,3 +22,4 @@
 | 5 | 3Sum | Two Pointer + Sorting | 75 min | Solved (optimal — correctly handled all 3 duplicate-skip locations, abandoned set() approach after trial) |
 | 6 | Valid Palindrome II (retention check) | Two Pointer | 6 min | Solved (Day 3 took 30 min — confirms retention, not one-time derivation) |
 | 7 | Longest Repeating Character Replacement | Sliding Window | 50 min | Solved (optimal — stale max_freq trick) |
+| 7 | Permutation in String | Sliding Window + Hashmap | 60 min | Solved (optimal — combined fixed-window + frequency comparison independently) |
