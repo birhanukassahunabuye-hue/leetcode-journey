@@ -25,3 +25,4 @@
 | 7 | Permutation in String | Sliding Window + Hashmap | 60 min | Solved (optimal — combined fixed-window + frequency comparison independently) |
 | 8 | Minimum Window Substring | Sliding Window + Hashmap | 80 min | Solved (optimal — incremental formed/required counter, self-derived after two prior struggle sessions) |
 | 9 | 4Sum | Two Pointer + Sorting | 60 min | Solved (extended 3Sum structure to two fixed elements, correctly handled nested duplicate-skipping; initially explored O(n) before recognizing O(n³) as necessary) |
+| 10 | Reverse Linked List | Linked List | 10 min | Solved (optimal, first linked list problem, one trial) |
