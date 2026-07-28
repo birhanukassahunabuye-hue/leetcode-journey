@@ -27,3 +27,4 @@
 | 9 | 4Sum | Two Pointer + Sorting | 60 min | Solved (extended 3Sum structure to two fixed elements, correctly handled nested duplicate-skipping; initially explored O(n) before recognizing O(n³) as necessary) |
 | 10 | Reverse Linked List | Linked List | 10 min | Solved (optimal, first linked list problem, one trial) |
 | 10 | Merge Two Sorted Lists | Linked List | 30 min | Solved (optimal — dummy node technique, one trial) |
+| 11 | Linked List Cycle | Linked List (Floyd's algorithm) | 35 min | Solved (optimal, correctly reasoned through catch-up logic) |
