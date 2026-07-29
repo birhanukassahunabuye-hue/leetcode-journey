@@ -29,3 +29,4 @@
 | 10 | Merge Two Sorted Lists | Linked List | 30 min | Solved (optimal — dummy node technique, one trial) |
 | 11 | Linked List Cycle | Linked List (Floyd's algorithm) | 35 min | Solved (optimal, correctly reasoned through catch-up logic) |
 | 11 | Reorder List | Linked List (find-middle + reverse + merge) | 45 min | Solved (optimal — synthesized 3 separate sub-skills independently) |
+| 12 | Remove Nth Node From End of List | Linked List (two-pointer gap) | 45 min | Solved (optimal, one-pass, self-initiated dummy node use) |
