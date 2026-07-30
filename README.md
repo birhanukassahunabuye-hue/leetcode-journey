@@ -31,3 +31,4 @@
 | 11 | Reorder List | Linked List (find-middle + reverse + merge) | 45 min | Solved (optimal — synthesized 3 separate sub-skills independently) |
 | 12 | Remove Nth Node From End of List | Linked List (two-pointer gap) | 45 min | Solved (optimal, one-pass, self-initiated dummy node use) |
 | 12 | Valid Parentheses | Stack | 30 min | Solved (optimal, first stack problem, correctly handled all 3 edge cases) |
+| 13 | Min Stack | Stack (design) | 40 min | Solved (optimal — parallel min-stack technique, self-derived) |
