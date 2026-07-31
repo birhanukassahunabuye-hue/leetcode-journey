@@ -33,3 +33,4 @@
 | 12 | Valid Parentheses | Stack | 30 min | Solved (optimal, first stack problem, correctly handled all 3 edge cases) |
 | 13 | Min Stack | Stack (design) | 40 min | Solved (optimal — parallel min-stack technique, self-derived) |
 | 13 | Evaluate Reverse Polish Notation | Stack | 40 min | Solved (optimal — correctly reasoned through int() truncation vs floor division for negative numbers) |
+| 14 | Daily Temperatures | Stack (monotonic stack) | 40 min | Solved (optimal — brute force first, then derived monotonic stack approach) |
