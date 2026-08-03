@@ -35,3 +35,4 @@
 | 13 | Evaluate Reverse Polish Notation | Stack | 40 min | Solved (optimal — correctly reasoned through int() truncation vs floor division for negative numbers) |
 | 14 | Daily Temperatures | Stack (monotonic stack) | 40 min | Solved (optimal — brute force first, then derived monotonic stack approach) |
 | 14 | Implement Queue using Stacks | Queue (via two stacks) | 35 min | Solved (optimal — amortized O(1), correctly only transfers when stack2 is empty) |
+| 15 | Number of Recent Calls | Queue | 20 min | Solved (correct logic; switched from list.pop(0) O(n) to deque O(1) after review) |
