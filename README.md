@@ -37,3 +37,4 @@
 | 14 | Implement Queue using Stacks | Queue (via two stacks) | 35 min | Solved (optimal — amortized O(1), correctly only transfers when stack2 is empty) |
 | 15 | Number of Recent Calls | Queue | 20 min | Solved (correct logic; switched from list.pop(0) O(n) to deque O(1) after review) |
 | 15 | Maximum Depth of Binary Tree | Tree (recursion) | 30 min | Solved (optimal, first tree problem, clean recursive solve) |
+| 16 | Invert Binary Tree | Tree (recursion) | 35 min | Solved (optimal, clean recursive swap) |
