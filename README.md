@@ -40,3 +40,4 @@
 | 16 | Invert Binary Tree | Tree (recursion) | 35 min | Solved (optimal, clean recursive swap) |
 | 16 | Same Tree | Tree (recursion, dual-tree comparison) | 40 min | Solved (optimal, correctly handled all 3 base cases) |
 | 17 | Subtree of Another Tree | Tree (recursion + reuse) | 40 min | Solved (optimal-standard, correctly reused isSameTree as helper) |
+| 17 | Binary Tree Level Order Traversal | Tree (BFS with queue) | 50 min | Solved (fixed copy-paste bug on node.right check, self-caught; switched list to deque) |
