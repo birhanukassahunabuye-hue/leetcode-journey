@@ -42,3 +42,4 @@
 | 17 | Subtree of Another Tree | Tree (recursion + reuse) | 40 min | Solved (optimal-standard, correctly reused isSameTree as helper) |
 | 17 | Binary Tree Level Order Traversal | Tree (BFS with queue) | 50 min | Solved (fixed copy-paste bug on node.right check, self-caught; switched list to deque) |
 | 18 | Validate Binary Search Tree | Tree (BST, range-based recursion) | 50 min | Solved (optimal — correctly used min/max bound narrowing, avoided local-check trap) |
+| 18 | Lowest Common Ancestor of a BST | Tree (BST-specific traversal) | 30 min | Solved (optimal — leveraged BST ordering to avoid searching both subtrees) |
