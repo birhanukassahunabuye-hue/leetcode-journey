@@ -44,3 +44,4 @@
 | 18 | Validate Binary Search Tree | Tree (BST, range-based recursion) | 50 min | Solved (optimal — correctly used min/max bound narrowing, avoided local-check trap) |
 | 18 | Lowest Common Ancestor of a BST | Tree (BST-specific traversal) | 30 min | Solved (optimal — leveraged BST ordering to avoid searching both subtrees) |
 | 19 | Kth Smallest Element in a BST | Tree (BST, in-order traversal) | 45 min | Solved (correct, recursive — noted: continues traversal after answer found, early-stop optimization possible) |
+| 19 | Kth Smallest Element in a BST | Tree (BST, in-order traversal) | 45 min | Solved (recursive, correct but no early-stop); 2nd submission: iterative with early-stop, using explicit stack |
